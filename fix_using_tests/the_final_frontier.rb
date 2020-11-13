@@ -10,6 +10,7 @@ end
 def engage
   date = generate_star_date
   state_log(date)
+  puts "Hello, crew"
 end
 
 puts engage
