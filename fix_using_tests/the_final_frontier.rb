@@ -12,5 +12,3 @@ def engage
   puts state_log(date)
   puts "Hello, crew"
 end
-
-puts engage
