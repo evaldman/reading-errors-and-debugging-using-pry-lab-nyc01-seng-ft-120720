@@ -5,6 +5,7 @@ def generate_star_date
 end
 
 def state_log(star_date)
+  star_date = ggenerate_star_date
   "Captain's Log, star date #{star_date}."
 end
 binding.pry
